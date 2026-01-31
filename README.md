@@ -2,7 +2,7 @@
 
 A privacy-first, context-aware AI assistant that browses the live web to answer questions. Built with **LangChain**, **Ollama**, and **Streamlit**.
 
-![Demo](https://drive.google.com/file/d/1S-kRCFBTA_9QegOBSlZSIVPF0JS3H024/view)
+https://drive.google.com/file/d/1S-kRCFBTA_9QegOBSlZSIVPF0JS3H024/view
 
 ## 💡 The Problem & Solution
 Standard LLMs (like Llama 3) have a knowledge cutoff—they don't know today's news. 
